@@ -1,0 +1,3 @@
+/* rev-e9b30c-20261006 */
+USAGE.txt
+adrenalin 26.9.1 run launcher install game folder
